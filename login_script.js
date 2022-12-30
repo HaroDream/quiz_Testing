@@ -1,13 +1,12 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyC4H8vpP-sxYzga1Gt4SU1RCb-3pr5_wEw",
-    authDomain: "testing2-d186a.firebaseapp.com",
-    databaseURL: "https://testing2-d186a-default-rtdb.firebaseio.com",
-    projectId: "testing2-d186a",
-    storageBucket: "testing2-d186a.appspot.com",
-    messagingSenderId: "782022640974",
-    appId: "1:782022640974:web:495cf4e1f6b53b1c894a1f",
- 
-};
+  apiKey: "AIzaSyC4H8vpP-sxYzga1Gt4SU1RCb-3pr5_wEw",
+  authDomain: "testing2-d186a.firebaseapp.com",
+  databaseURL: "https://testing2-d186a-default-rtdb.firebaseio.com",
+  projectId: "testing2-d186a",
+  storageBucket: "testing2-d186a.appspot.com",
+  messagingSenderId: "782022640974",
+  appId: "1:782022640974:web:495cf4e1f6b53b1c894a1f",
+ };
 
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
