@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBiKMAtstlv7R9DD5bDJ_ju2KXy0Oz91uY",
-  authDomain: "quiz-34ac3.firebaseapp.com",
-  databaseURL: "https://quiz-34ac3-default-rtdb.firebaseio.com",
-  projectId: "quiz-34ac3",
-  storageBucket: "quiz-34ac3.appspot.com",
-  messagingSenderId: "33579432678",
-  appId: "1:33579432678:web:585465a1afc56d5bb35927",
+  apiKey: "AIzaSyCksk0f0BWISsJO3goGj7kEnhX9vy8UZ_Q",
+  authDomain: "vinotest-5be90.firebaseapp.com",
+  databaseURL: "https://vinotest-5be90-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "vinotest-5be90",
+  storageBucket: "vinotest-5be90.appspot.com",
+  messagingSenderId: "150238579860",
+  appId: "1:150238579860:web:dc026fb28d9f289d8b7881",
 };
 
 firebase.initializeApp(firebaseConfig);
